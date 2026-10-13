@@ -1,9 +1,9 @@
 # HeyPixel
 
-Fizzi is your free macOS assistant — “Your assistant, but free.”
+Pixel is your free macOS assistant — “Your assistant, but free.”
 
 Hold Control + Option to talk.
 
-Fizzi can answer aloud, remember chats, open apps, search Safari, write paragraphs, type, and click controls with its purple cursor.
+Pixel can answer aloud, open apps, search Safari, write paragraphs, type, and click controls with its invisible touch.
 
 Download the DMG to get started.
